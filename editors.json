@@ -1,0 +1,52 @@
+{
+  "name" : "Editors",
+  "apps" : [ {
+    "name" : "Emacs",
+    "site" : "https://www.gnu.org/software/emacs/",
+    "plugins" : [ {
+      "name" : "Spacemacs",
+      "site" : "http://spacemacs.org/"
+    }, {
+      "name" : "Evil mode",
+      "site" : "https://github.com/emacs-evil/evil"
+    } ]
+  }, {
+    "name" : "Visual Studio",
+    "site" : "https://www.visualstudio.com/",
+    "plugins" : [ {
+      "name" : "VsVim",
+      "site" : "https://github.com/jaredpar/VsVim"
+    } ]
+  }, {
+    "name" : "Visual Studio Code",
+    "site" : "https://code.visualstudio.com/",
+    "plugins" : [ {
+      "name" : "VSCodeVim",
+      "site" : "https://github.com/VSCodeVim/Vim"
+    } ]
+  }, {
+    "name" : "Eclipse",
+    "site" : "https://eclipse.org/",
+    "plugins" : [ {
+      "name" : "Vrapper",
+      "site" : "http://vrapper.sourceforge.net/home/"
+    } ]
+  }, {
+    "name" : "IntelliJ IDEA",
+    "site" : "https://www.jetbrains.com/idea/",
+    "plugins" : [ {
+      "name" : "IdeaVim",
+      "site" : "https://plugins.jetbrains.com/plugin/164-ideavim"
+    } ]
+  }, {
+    "name" : "Xcode",
+    "site" : "https://developer.apple.com/xcode/",
+    "plugins" : [ {
+      "name" : "XVim",
+      "site" : "http://xvim.org/"
+    } ]
+  }, {
+    "name" : "Vim",
+    "site" : "http://www.vim.org/"
+  } ]
+}
