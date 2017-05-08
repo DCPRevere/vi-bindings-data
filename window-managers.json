@@ -1,0 +1,7 @@
+{
+    "name": "Window managers",
+    "apps": [{
+        "name": "i3",
+        "site": "https://i3wm.org/"
+    }]
+}
