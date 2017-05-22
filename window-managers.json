@@ -3,5 +3,12 @@
     "apps": [{
         "name": "i3",
         "site": "https://i3wm.org/"
+    }, {
+        "name": "awesome",
+        "site": "https://awesomewm.org/",
+        "plugins": [{
+            "name": "VimAw",
+            "site": "https://github.com/seberm/awesome-vim-bindings"
+        }]
     }]
 }
